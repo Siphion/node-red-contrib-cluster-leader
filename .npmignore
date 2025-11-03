@@ -1,0 +1,25 @@
+# Git
+.git/
+.gitignore
+
+# Tests and examples
+test/
+tests/
+examples/
+*.test.js
+
+# Documentation source
+docs/
+
+# IDE
+.vscode/
+.idea/
+
+# CI/CD
+.github/
+.travis.yml
+.gitlab-ci.yml
+
+# Misc
+.DS_Store
+*.log
