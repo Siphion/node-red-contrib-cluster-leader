@@ -284,10 +284,11 @@ For issues and questions:
 
 ## Changelog
 
-### 1.0.0 (2025-01-30)
+### 1.0.0 (2025-11-01)
 - Initial release
 - Basic leader election with Redis/Valkey
 - Valkey config node
 - Status monitoring and heartbeat
 - Auto-failover on leader death
 - Multiple lock group support
+
