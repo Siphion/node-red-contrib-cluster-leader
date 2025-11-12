@@ -1,3 +1,9 @@
+# ⚠️ **DEPRECATED REPOSITORY**
+
+This project is **no longer maintained**.  
+It has been **moved to a new repository** 👉  
+➡️ [**Siphion/node-red-cluster**](https://github.com/Siphion/node-red-cluster)
+
 # node-red-contrib-cluster-leader
 
 Leader election node for Node-RED cluster deployments using Redis/Valkey.
@@ -291,4 +297,5 @@ For issues and questions:
 - Status monitoring and heartbeat
 - Auto-failover on leader death
 - Multiple lock group support
+
 
